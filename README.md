@@ -1,5 +1,5 @@
 # Building a SOC + Honeynet in Azure (Live Traffic)
-(![2024-06-01 01_49_03-honeynet](https://github.com/Will-Robinson-Hub/Azure-HoneyNet/assets/172574754/670a1f6a-0b1f-43ef-bcfa-7735e3c41f85)
+[2024-06-01 01_49_03-honeynet](https://github.com/Will-Robinson-Hub/Azure-HoneyNet/assets/172574754/670a1f6a-0b1f-43ef-bcfa-7735e3c41f85)
 
 ## Introduction
 
