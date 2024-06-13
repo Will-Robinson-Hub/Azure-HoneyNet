@@ -54,6 +54,10 @@ Stop Time 2024-06-01 11:06
 ## Attack Maps After Hardening / Security Controls
 
 ```All map queries actually returned no results due to no instances of malicious activity for the 24 hour period after hardening.```
+![2024-06-05 15_29_36-Window](https://github.com/Will-Robinson-Hub/Azure-HoneyNet/assets/172574754/b5d0ca10-c054-4da1-93fa-97e052b7a55b)
+![2024-06-05 15_29_00-Window](https://github.com/Will-Robinson-Hub/Azure-HoneyNet/assets/172574754/77ce8a12-5a3b-4a00-8baa-5075b247d3b1)
+![2024-06-05 15_27_01-Window](https://github.com/Will-Robinson-Hub/Azure-HoneyNet/assets/172574754/baed556a-be81-4dc8-81e1-3222abedb26b)
+![2024-06-05 15_28_18-Window](https://github.com/Will-Robinson-Hub/Azure-HoneyNet/assets/172574754/429b21fa-5b0b-455e-ad0e-47119cbf750f)
 
 ## Metrics After Hardening / Security Controls
 
