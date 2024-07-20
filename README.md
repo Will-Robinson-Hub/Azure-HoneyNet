@@ -1,4 +1,4 @@
-# Building a SOC + Honeynet in Azure (Live Traffic)
+# Deploying a SOC and Honeynet in Azure with Live Real-Time Traffic
 ![2024-06-01 01_49_03-honeynet](https://github.com/Will-Robinson-Hub/Azure-HoneyNet/assets/172574754/368068d7-4c05-447e-8ff2-f8a80cc79a1c)
 
 ## Introduction
